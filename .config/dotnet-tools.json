@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "guidgenerator": {
+      "version": "1.0.3",
+      "commands": [
+        "guid-generate"
+      ],
+      "rollForward": false
+    }
+  }
+}
