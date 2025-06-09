@@ -14,11 +14,11 @@ internal class Program
                 .InformationalVersion
                 .ToString();
 
-            Console.WriteLine($"Guid Generator v{versionString}");
+            Console.WriteLine($"CLI Guid Generator v{versionString}");
             Console.WriteLine("-------------");
             Console.WriteLine("\nUsage:");
             Console.WriteLine(
-                "  generate-guid <number of guids> - Generates a specified number of GUIDs. default is 1.");
+                "  cli-generate-guid <number of guids> - Generates a specified number of GUIDs. default is 1.");
             return;
         }
 
