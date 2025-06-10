@@ -1,5 +1,8 @@
 # GuidGeneratorTool
 
+![NuGet Version](https://img.shields.io/nuget/v/CLIGuidGenerator)
+![GitHub License](https://img.shields.io/github/license/JamesLoyd/CLIGuidGeneratorTool)
+
 Generate GUIDS via simple command line tool.
 
 Its as simple as running the following:
